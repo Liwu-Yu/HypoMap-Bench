@@ -1,0 +1,5 @@
+# Scoring, map quality, analysis and inference through an API or an OpenAI-compatible server.
+# Local generation without a server additionally needs torch>=2.6, transformers>=4.51.3,<5 and accelerate.
+openai>=2,<3
+python-dotenv>=1,<2
+numpy>=1.26

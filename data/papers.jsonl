@@ -1,0 +1,722 @@
+{"paper_id": "src_00553c37e3425f78", "pmcid": "PMC13528941", "doi": "10.1172/jci182216", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_007115b85282fd39", "pmcid": "PMC13491364", "doi": "10.1002/advs.77333", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_00c4a2c7f5d08730", "pmcid": "PMC13424064", "doi": "10.1007/s40820-026-02318-1", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_00f9a4db5c245432", "pmcid": "PMC13517948", "doi": "10.3390/toxics14080701", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_01702dd3c15aa5db", "pmcid": "PMC13075154", "doi": "10.3390/polym18070793", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_018adb5614a54181", "pmcid": "PMC13512639", "doi": "10.3390/gels12080670", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_01e1778433be4adf", "pmcid": "PMC13310761", "doi": "10.3389/fphar.2026.1739677", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_01fbab799091e672", "pmcid": "PMC13576674", "doi": "10.1039/d6eb00099a", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_022d0b47cc9f9ee4", "pmcid": "PMC13518875", "doi": "10.1038/s41467-026-76115-0", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_025ffad15cad3d8b", "pmcid": "PMC12986802", "doi": "10.3390/polym18050583", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_028d79967540e0ef", "pmcid": "PMC13468221", "doi": "10.3390/nano16150951", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_035174f2c8df092c", "pmcid": "PMC13588921", "doi": "10.1557/s43578-026-01938-y", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_03cac2c5f46a6630", "pmcid": "PMC13572256", "doi": "10.3389/fvets.2026.1916814", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_03cea08ebff3a5f8", "pmcid": "PMC13258933", "doi": "10.3390/polym18111316", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_047c9e75802aef26", "pmcid": "PMC13187488", "doi": "10.3389/fcell.2026.1810043", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_04c3d429f79d9c0a", "pmcid": "PMC13289752", "doi": "10.1093/nsr/nwag320", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_05552d0fca0dc5c6", "pmcid": "PMC13530372", "doi": "10.34133/bmr.0387", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_05aec1770604fe35", "pmcid": "PMC12985818", "doi": "10.3390/ma19051005", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_05d88e023758906f", "pmcid": "PMC13334537", "doi": "10.1039/d6ra04115a", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_06cc745b80095e01", "pmcid": "PMC10421277", "doi": "10.3390/molecules28155798", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_06daddc1ed6aa588", "pmcid": "PMC11219889", "doi": "10.1038/s41598-024-64936-2", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_0711b949d229c0c6", "pmcid": "PMC13556012", "doi": "10.1186/s40035-026-00581-1", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_074621ede5142cb8", "pmcid": "PMC11820404", "doi": "10.3390/polym17030367", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_08750458d0bdfa6e", "pmcid": "PMC12094168", "doi": "10.1002/ccs3.70016", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_089056f8251a5191", "pmcid": "PMC12866776", "doi": "10.1002/advs.202515282", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_08a790877f6609da", "pmcid": "PMC13528180", "doi": "10.1002/advs.77248", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_08baf226c8acc34a", "pmcid": "PMC13329753", "doi": "10.1039/d5ra08572a", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_09fd6bba47ea4c10", "pmcid": "PMC11595430", "doi": "10.3390/ma17225604", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_0a3a23c8295abb4b", "pmcid": "PMC11857864", "doi": "10.3390/nano15040281", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_0a52c1fcfe5df260", "pmcid": "PMC13329771", "doi": "10.1039/d6ra03027k", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_0a9c95270a66bd4d", "pmcid": "PMC13294863", "doi": "10.3389/fchem.2026.1830818", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_0b18ebd553b40532", "pmcid": "PMC13161438", "doi": "10.1007/s40820-026-02184-x", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_0bc7e6acc6604301", "pmcid": "PMC13514537", "doi": "10.3390/ma19163471", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_0c1400e5fc6e3145", "pmcid": "PMC11946131", "doi": "10.3390/nano15060411", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_0c2b3cc785225778", "pmcid": "PMC13041667", "doi": "10.1172/jci.insight.192146", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_0c8eb65b10787569", "pmcid": "PMC13538836", "doi": "10.3389/fphar.2026.1873606", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_0cadf17c7752dec5", "pmcid": "PMC11143572", "doi": "10.1186/s12967-024-05312-6", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_0cd0956767e8cd06", "pmcid": "PMC12237616", "doi": "10.1111/jcmm.70703", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_0d0a2a041d2f3571", "pmcid": "PMC13119250", "doi": "10.3390/molecules31081355", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_0d5c737d2b9fb6a3", "pmcid": "PMC12941925", "doi": "10.3390/ma19040760", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_0dcfbd4f100c7ba5", "pmcid": "PMC13258622", "doi": "10.3390/ma19112343", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_0ef40a6eb97957df", "pmcid": "PMC13426103", "doi": "10.1002/advs.202523390", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_0f3366407c872f08", "pmcid": "PMC12830513", "doi": "10.1186/s42649-026-00122-0", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_0fcce053ac39c3b3", "pmcid": "PMC12885255", "doi": "10.1371/journal.pone.0340257", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_10458f9464c1fe9a", "pmcid": "PMC13028656", "doi": "10.3390/ph19030377", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_110f0a0ce461d675", "pmcid": "PMC13513661", "doi": "10.3390/ijms27167487", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_119d2c67ced4b48b", "pmcid": "PMC13434595", "doi": "10.1038/s12276-026-01775-3", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_1297b67e21ee368d", "pmcid": "PMC13219457", "doi": "10.1038/s41413-026-00539-z", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_12bdf796581a0af8", "pmcid": "PMC13534800", "doi": "10.3389/fmolb.2026.1892600", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_12e73dc028e3933a", "pmcid": "PMC10250321", "doi": "10.1038/s41536-023-00306-2", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_13bd0159468ed8b0", "pmcid": "PMC13296800", "doi": "10.3390/biomimetics11060376", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_14361a0b9e2d4442", "pmcid": "PMC11356366", "doi": "10.3390/ma17164152", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_144c6ba04a64cba7", "pmcid": "PMC13067754", "doi": "10.1155/sci/2846096", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_14b4ead91bcd1d02", "pmcid": "PMC13498501", "doi": "10.1007/s11011-026-01956-z", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_15103f8847e8c85a", "pmcid": "PMC13376812", "doi": "10.1038/s41467-026-71851-9", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_152e9c84bcc05f59", "pmcid": "PMC13103462", "doi": "10.34133/cbsystems.0503", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_153828fceb4febd9", "pmcid": "PMC11478552", "doi": "10.3390/polym16192800", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_15856631dcd00a89", "pmcid": "PMC13257784", "doi": "10.3390/ma19112292", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_1665ae7097c38151", "pmcid": "PMC13024005", "doi": "10.3390/biom16030392", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_170e376a347c0c12", "pmcid": "PMC12714748", "doi": "10.1038/s41522-025-00864-x", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_17439c091d24722b", "pmcid": "PMC13568266", "doi": "10.3390/polym18172052", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_1755e71cc2eb71c8", "pmcid": "PMC12785570", "doi": "10.3390/foods15010036", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_181952ec942f59f3", "pmcid": "PMC13559541", "doi": "10.1039/d6ra06628c", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_186b7125f10b24c3", "pmcid": "PMC13118555", "doi": "10.3390/mi17040464", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_1903717be7992984", "pmcid": "PMC11656094", "doi": "10.1111/cns.70106", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_192b1ff4cd3874c6", "pmcid": "PMC12986103", "doi": "10.3390/ma19051032", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_1990d18b065bda90", "pmcid": "PMC13369289", "doi": "10.1002/mbo3.70360", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_1a167b1704dc6ab3", "pmcid": "PMC13516749", "doi": "10.3390/nu18162633", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_1a4141558af8273d", "pmcid": "PMC13302427", "doi": "10.3390/jfb17060266", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_1a68bb5b61f7ba32", "pmcid": "PMC11128439", "doi": "10.1038/s41598-024-62855-w", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_1b8a33e1bfd89584", "pmcid": "PMC12056716", "doi": "10.1039/d5ra01883h", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_1bd9cddf3843521e", "pmcid": "PMC13573161", "doi": "10.1039/d6ra06722k", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_1c1055ae2d29846a", "pmcid": "PMC12731596", "doi": "10.3390/cimb47121053", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_1c5574ab35d0e15c", "pmcid": "PMC13428173", "doi": "10.1155/ijbm/8564127", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_1d449dc61fb5b616", "pmcid": "PMC13514847", "doi": "10.3390/jfb17080363", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_1ddd8a48768027cf", "pmcid": "PMC12390613", "doi": "10.3390/toxics13080624", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_1e964488bc1a86a6", "pmcid": "PMC13208383", "doi": "10.3390/jfb17050244", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_1f27f7c247a1a81a", "pmcid": "PMC11544810", "doi": "10.3390/foods13213388", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_1faad0a6ec7b3f5a", "pmcid": "PMC13208961", "doi": "10.3390/mi17050588", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_200e43d05d8bf90c", "pmcid": "PMC13489318", "doi": "10.1002/smsc.70375", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_2027f3d1d56ed381", "pmcid": "PMC13278876", "doi": "10.3389/fcell.2026.1823110", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_202afaf70248c8ff", "pmcid": "PMC13512065", "doi": "10.3390/foods15162849", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_2050eada87a95693", "pmcid": "PMC11277042", "doi": "10.3390/ijms25147690", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_206252f1479905ca", "pmcid": "PMC11914602", "doi": "10.1038/s41378-025-00903-9", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_209aca987792acf2", "pmcid": "PMC13567676", "doi": "10.3390/ma19173784", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_216484e88ea39bb5", "pmcid": "PMC13566164", "doi": "10.3390/ma19173586", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_2172ef845583aed8", "pmcid": "PMC13111802", "doi": "10.1155/cjid/6625304", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_21785af1a94495b5", "pmcid": "PMC13437657", "doi": "10.1002/open.70272", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_21d4dc63bba2e76d", "pmcid": "PMC12074276", "doi": "10.3390/molecules30091902", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_220a13ab62bbdf22", "pmcid": "PMC13412804", "doi": "10.3390/ma19142976", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_22f5ddd990a7613c", "pmcid": "PMC11597868", "doi": "10.3390/molecules29225439", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_2338e25b2a57f22e", "pmcid": "PMC13514733", "doi": "10.3390/ma19163485", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_237a4d7507c2a82b", "pmcid": "PMC13520794", "doi": "10.1002/fsn3.72281", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_2382475a0ef93ea6", "pmcid": "PMC12610834", "doi": "10.3390/polym17212874", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_23834459beb777f0", "pmcid": "PMC13164993", "doi": "10.3390/ma19091701", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_24208e6f333cfbb0", "pmcid": "PMC13516813", "doi": "10.3390/polym18161962", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_24764fe6037e1ca1", "pmcid": "PMC10302182", "doi": "10.3390/mi14061178", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_24c3da7f565e3ea8", "pmcid": "PMC12126575", "doi": "10.1038/s41598-025-03791-1", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_24ea768fc01bc9db", "pmcid": "PMC11482602", "doi": "10.3390/cells13191652", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_25bf5401bdedba8e", "pmcid": "PMC13029508", "doi": "10.3390/nano16060375", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_25e10f057a53ee52", "pmcid": "PMC13467895", "doi": "10.3390/ma19153319", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_26592c6249db4716", "pmcid": "PMC13284360", "doi": "10.1038/s41467-026-71930-x", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_274caa7027d0189f", "pmcid": "PMC13290583", "doi": "10.3389/fimmu.2026.1829304", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_27b8a980a4cc6b16", "pmcid": "PMC13029859", "doi": "10.3390/polym18060761", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_290165460ff99829", "pmcid": "PMC13566968", "doi": "10.3390/molecules31172955", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_29ad5fe590078345", "pmcid": "PMC13500987", "doi": "10.14202/vetworld.2026.3246-3255", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_29ce31695fcc3ff8", "pmcid": "PMC12987052", "doi": "10.3390/polym18050626", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_2a0ff5c2b043ce85", "pmcid": "PMC13363555", "doi": "10.3390/molecules31132318", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_2a593ad0c5ea6d37", "pmcid": "PMC13472254", "doi": "10.1002/smll.74237", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_2a997acb19307a5f", "pmcid": "PMC13042887", "doi": "10.1002/advs.202521067", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_2ae1a7152bcabb4f", "pmcid": "PMC12908201", "doi": "10.1002/path.70010", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_2b293d797d40c52b", "pmcid": "PMC10784708", "doi": "10.1111/crj.13732", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_2b919e4ac093112a", "pmcid": "PMC13411262", "doi": "10.3390/ijms27146489", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_2bb24bb315f2add3", "pmcid": "PMC9982560", "doi": "10.1002/advs.202203943", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_2c09f523080acd40", "pmcid": "PMC13252625", "doi": "10.1002/advs.202522124", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_2d110dd52075b63c", "pmcid": "PMC13417484", "doi": "10.1002/fsn3.72163", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_2d3ad41ca287ea28", "pmcid": "PMC12943195", "doi": "10.3390/molecules31040740", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_2dd317505ab52302", "pmcid": "PMC13469183", "doi": "10.1111/acel.70653", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_2e356ad89fa5e47c", "pmcid": "PMC13140273", "doi": "10.1002/open.202500454", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_2e82d111c4dd3f62", "pmcid": "PMC11674950", "doi": "10.3390/cells13242110", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_2f4f1edf9c2e74a2", "pmcid": "PMC13405887", "doi": "10.3390/antibiotics15070655", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_3082a2817f9afa19", "pmcid": "PMC13444139", "doi": "10.1038/s41598-026-62252-5", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_30884ad9dee8cccb", "pmcid": "PMC11761924", "doi": "10.3390/biom15010016", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_30b10a913743705d", "pmcid": "PMC13554716", "doi": "10.1002/gch2.70154", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_30e578ba9b88a088", "pmcid": "PMC13516417", "doi": "10.3390/pharmaceutics18081017", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_30ef75b2b4f8a59a", "pmcid": "PMC10804664", "doi": "10.1002/prp2.1169", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_3127eaf3ad4bd212", "pmcid": "PMC13003269", "doi": "10.1002/smll.202513162", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_315741cbbbfb4fd6", "pmcid": "PMC13590464", "doi": "10.1186/s43556-026-00595-1", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_317332b010e3844e", "pmcid": "PMC12989190", "doi": "10.1002/jbt.70782", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_32c8fc9c249a85a4", "pmcid": "PMC10488115", "doi": "10.3390/ijms241713424", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_330f0ddc0c24ebfd", "pmcid": "PMC12736789", "doi": "10.3390/s25247623", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_33191db2f5decc3e", "pmcid": "PMC13330132", "doi": "10.1039/d6ra03587f", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_3321436d7598845a", "pmcid": "PMC13562796", "doi": "10.34133/bmr.0416", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_3442fcad6d014f6f", "pmcid": "PMC13294402", "doi": "10.3389/fbioe.2026.1802077", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_345955ff71365522", "pmcid": "PMC13304087", "doi": "10.3390/ma19122671", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_3533c820d0289b79", "pmcid": "PMC11092102", "doi": "10.1186/s40659-024-00495-0", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_3588329436accb6b", "pmcid": "PMC12730050", "doi": "10.3390/bioengineering12121361", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_35de80be8a1bcb55", "pmcid": "PMC13567167", "doi": "10.3390/molecules31172970", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_361031e7808ee65d", "pmcid": "PMC13201294", "doi": "10.1007/s44211-026-00896-z", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_36a70541ce65ad2f", "pmcid": "PMC13336922", "doi": "10.1002/advs.75920", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_3723f327c3ea7181", "pmcid": "PMC12942212", "doi": "10.3390/jfb17020076", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_3758095eac468f7a", "pmcid": "PMC13537563", "doi": "10.1371/journal.pone.0355285", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_376a631d2e43ecb5", "pmcid": "PMC13564530", "doi": "10.3390/foods15172957", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_377fd2129fc52089", "pmcid": "PMC13111652", "doi": "10.1038/s41598-026-50195-w", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_379fc7b7686966ea", "pmcid": "PMC13119539", "doi": "10.3390/s26082427", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_37f82743f9be0379", "pmcid": "PMC13165916", "doi": "10.3390/s26092851", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_37ff4a3847c5e548", "pmcid": "PMC13209048", "doi": "10.3390/mi17050597", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_3873967149ba22b4", "pmcid": "PMC13117709", "doi": "10.3390/md24040142", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_38c41d1a9772d9f9", "pmcid": "PMC13109809", "doi": "10.1096/fj.202601311r", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_3964b00fafc3c21a", "pmcid": "PMC13562787", "doi": "10.1002/advs.77670", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_3974429d2243d59d", "pmcid": "PMC11068671", "doi": "10.1007/s00253-024-13134-1", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_3a132b2fd0a1240a", "pmcid": "PMC12986520", "doi": "10.3390/molecules31050856", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_3ae498bff5416ef1", "pmcid": "PMC13458687", "doi": "10.1039/d6ra04767j", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_3b1eae62949279ac", "pmcid": "PMC13306813", "doi": "10.3390/toxics14060480", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_3b64f76d1c3f6858", "pmcid": "PMC12157789", "doi": "10.3390/nano15110800", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_3b7f3170014daf67", "pmcid": "PMC13469321", "doi": "10.1155/ijod/4609857", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_3b9fb4ef572486d9", "pmcid": "PMC13459068", "doi": "10.1002/cns.71073", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_3d3aa90a238c0500", "pmcid": "PMC13113298", "doi": "10.3390/biomimetics11040227", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_3d6d91e4f719dfc8", "pmcid": "PMC13489862", "doi": "10.3389/fphar.2026.1844591", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_3e996ee84e83a44b", "pmcid": "PMC13510118", "doi": "10.3390/bioengineering13080870", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_3f939737e70f330f", "pmcid": "PMC12913315", "doi": "10.1007/s00604-026-07897-9", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_3fab7e11a101eba4", "pmcid": "PMC13074716", "doi": "10.3390/molecules31071214", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_3fc00bececf49e45", "pmcid": "PMC12954364", "doi": "10.1002/smll.202511763", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_3ff1e59dc68c6e50", "pmcid": "PMC12942278", "doi": "10.3390/jfb17020064", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_40078411f77893a1", "pmcid": "PMC12840709", "doi": "10.3390/foods15020390", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_40179e00ab792b50", "pmcid": "PMC13538338", "doi": "10.1007/s40820-026-02339-w", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_4102748e36bfbf8e", "pmcid": "PMC13287963", "doi": "10.1002/ctm2.70726", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_4134c649505f47c1", "pmcid": "PMC13443504", "doi": "10.1038/s41598-026-63745-z", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_41a3f90179cac95e", "pmcid": "PMC13363739", "doi": "10.3390/polym18131656", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_422307abeb30eb95", "pmcid": "PMC12845538", "doi": "10.3390/polym18020263", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_427933562a342d95", "pmcid": "PMC11643669", "doi": "10.3390/nano14231865", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_43e17a755c6d996c", "pmcid": "PMC13583223", "doi": "10.1002/advs.77784", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_444ed39c8c7830ea", "pmcid": "PMC12679372", "doi": "10.7150/thno.121636", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_446656a6986ceb6a", "pmcid": "PMC13259126", "doi": "10.3390/polym18111404", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_44db9a2264e7e8e8", "pmcid": "PMC13412036", "doi": "10.3390/ijms27146289", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_44de35b041ccb3d0", "pmcid": "PMC11083218", "doi": "10.3390/ijms25094730", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_455ef03c08ce598e", "pmcid": "PMC12428294", "doi": "10.3390/foods14173139", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_456cf313a9b08339", "pmcid": "PMC12899767", "doi": "10.3390/molecules31030447", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_45ca9d2a5549fc6e", "pmcid": "PMC12512633", "doi": "10.1186/s41065-025-00578-2", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_461d32e98dc699ec", "pmcid": "PMC12944587", "doi": "10.3390/s26041086", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_461f07c101a49150", "pmcid": "PMC11572354", "doi": "10.7717/peerj.18552", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_46b78df85a0e7145", "pmcid": "PMC13042648", "doi": "10.1002/advs.202517257", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_46d8f20b10940019", "pmcid": "PMC13557628", "doi": "10.1093/rb/rbag151", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_47255f2a29dd2746", "pmcid": "PMC11490038", "doi": "10.1186/s12903-024-05042-7", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_4729e14235481d27", "pmcid": "PMC13090366", "doi": "10.1038/s41598-026-47435-4", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_4780a0d235389d4e", "pmcid": "PMC13278899", "doi": "10.3389/fimmu.2026.1847788", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_478c0d03093f3c72", "pmcid": "PMC10546738", "doi": "10.1186/s12951-023-02119-3", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_478d577ae6fe6a32", "pmcid": "PMC13336832", "doi": "10.1002/advs.75948", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_47de5173c93b34ae", "pmcid": "PMC13338440", "doi": "10.1038/s41598-026-45178-w", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_482b3b6191f4551b", "pmcid": "PMC11441421", "doi": "10.1039/d4ra05657d", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_4835e7c030754e83", "pmcid": "PMC10848294", "doi": "10.1021/acs.molpharmaceut.3c00821", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_4849819993921750", "pmcid": "PMC11902541", "doi": "10.3390/s25051506", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_486d1f58492ecaad", "pmcid": "PMC11200587", "doi": "10.3390/biomedicines12061238", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_48927c363d95dbca", "pmcid": "PMC13430337", "doi": "10.1039/d6ra05088c", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_490be96ff79d9419", "pmcid": "PMC13519958", "doi": "10.1002/ccs3.70107", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_498c279eb4db7a38", "pmcid": "PMC12526698", "doi": "10.3390/polym17192690", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_4a229f12aa6d2e83", "pmcid": "PMC13164740", "doi": "10.3390/ma19091852", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_4a464d9e344384ad", "pmcid": "PMC12733185", "doi": "10.3390/foods14244330", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_4ad819d55e172bba", "pmcid": "PMC13512187", "doi": "10.3390/foods15162924", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_4adf3bfb079aab7d", "pmcid": "PMC13469178", "doi": "10.1002/cns.71081", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_4b4804a13cb221db", "pmcid": "PMC13203943", "doi": "10.3390/antiox15050576", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_4b96ea380792ccdf", "pmcid": "PMC13503267", "doi": "10.1038/s41529-026-00813-9", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_4c36e090c6e1b953", "pmcid": "PMC13513455", "doi": "10.3390/jcm15166273", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_4c81ae80e4af39fd", "pmcid": "PMC13515962", "doi": "10.3390/mi17080908", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_4cc3a4a6eb89161b", "pmcid": "PMC13206345", "doi": "10.1002/smll.202600004", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_4d102367b6cdfe54", "pmcid": "PMC13076820", "doi": "10.1038/s41598-026-44678-z", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_4e621986c29cce1c", "pmcid": "PMC13470672", "doi": "10.1039/d6ra01235c", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_4e710baff52cda81", "pmcid": "PMC11433829", "doi": "10.3390/molecules29184342", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_4e8752c438b2b7c9", "pmcid": "PMC13009116", "doi": "10.1007/s00784-026-06839-2", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_4fc2f13b79080b92", "pmcid": "PMC12899705", "doi": "10.3390/s26030976", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_4fe951b7a8673360", "pmcid": "PMC12609142", "doi": "10.3390/ma18215032", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_51193ddc3dba870f", "pmcid": "PMC13420306", "doi": "10.14814/phy2.71033", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_511c0aa8182c6257", "pmcid": "PMC12993278", "doi": "10.3389/fphar.2026.1752252", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_512e78c68b8ba409", "pmcid": "PMC11696435", "doi": "10.1021/acsomega.4c08137", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_51ac66ec25b04f68", "pmcid": "PMC13515828", "doi": "10.3390/microorganisms14081698", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_520ded5d6b29f82a", "pmcid": "PMC12563125", "doi": "10.3390/gels11100836", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_529365edd1558b72", "pmcid": "PMC13104105", "doi": "10.1002/advs.202510815", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_534068dcdc8b90b6", "pmcid": "PMC12694562", "doi": "10.1002/kjm2.70079", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_53d1953e4e817d22", "pmcid": "PMC13583227", "doi": "10.1002/advs.77769", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_544cc0afa06e70e5", "pmcid": "PMC11356169", "doi": "10.3390/ma17164163", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_5624f34c6a625a62", "pmcid": "PMC13334540", "doi": "10.1039/d6ra03576k", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_570cb30c35ac8916", "pmcid": "PMC13359680", "doi": "10.3390/cells15131136", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_572230743a71da2c", "pmcid": "PMC12346878", "doi": "10.3390/cells14151194", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_58032a29d9db4d04", "pmcid": "PMC13476388", "doi": "10.1007/s13197-025-06476-9", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_584c71a62040bb76", "pmcid": "PMC13304606", "doi": "10.3390/nano16120735", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_58830b19b5d1006e", "pmcid": "PMC13491363", "doi": "10.1002/advs.77171", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_58944acb2dd917a1", "pmcid": "PMC13163674", "doi": "10.3390/foods15091508", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_589c3eb7a5582d0a", "pmcid": "PMC13482022", "doi": "10.1111/jcmm.71321", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_58cabca856a9c8ac", "pmcid": "PMC13023059", "doi": "10.1039/d6ra00478d", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_58d77f305031839f", "pmcid": "PMC11433527", "doi": "10.3390/life14091079", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_58d97b631a26a267", "pmcid": "PMC12418089", "doi": "10.1039/d5ra05251c", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_593a8dc9bca1a30c", "pmcid": "PMC13551554", "doi": "10.1039/d6ra05208h", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_5a11786d06fecb10", "pmcid": "PMC13088006", "doi": "10.1002/mnfr.70468", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_5a3a62d4a1d8a88c", "pmcid": "PMC13363129", "doi": "10.3390/nu18132071", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_5a57a99a344fb136", "pmcid": "PMC12314793", "doi": "10.1002/fsn3.70688", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_5a7cbdfce17c81b9", "pmcid": "PMC13513699", "doi": "10.3390/ijms27167127", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_5a92328697b25beb", "pmcid": "PMC13275327", "doi": "10.1002/mbo3.70336", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_5ad70feeeefca05a", "pmcid": "PMC13583119", "doi": "10.1002/advs.77854", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_5ad8b00707ce7bff", "pmcid": "PMC13303574", "doi": "10.3390/ma19122566", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_5af7642d107d2aed", "pmcid": "PMC11508742", "doi": "10.3390/life14101261", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_5b18e26655fb3d5d", "pmcid": "PMC13570216", "doi": "10.1002/cns.71137", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_5b35245fed380064", "pmcid": "PMC13379496", "doi": "10.1007/s00449-026-03366-y", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_5bbe10c187d91bb2", "pmcid": "PMC13363157", "doi": "10.3390/nano16130823", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_5c0dfc365b73cbc6", "pmcid": "PMC12900128", "doi": "10.3390/s26031069", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_5dd548f5794e2be1", "pmcid": "PMC13118290", "doi": "10.3390/ph19040604", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_5e3b76125ffde931", "pmcid": "PMC13512214", "doi": "10.3390/gels12080711", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_5eed226f2fdb5cec", "pmcid": "PMC13210920", "doi": "10.3390/polym18101246", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_5fa0955f04b415f7", "pmcid": "PMC11719586", "doi": "10.3390/foods14010053", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_5fa6e035527e5296", "pmcid": "PMC12653425", "doi": "10.3390/jfb16110406", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_607729334ffb07f4", "pmcid": "PMC13249800", "doi": "10.1002/fsn3.72020", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_614da471319e83c7", "pmcid": "PMC13443556", "doi": "10.1038/s41598-026-63849-6", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_616e528e8c515bff", "pmcid": "PMC13583444", "doi": "10.1002/mco2.71003", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_61bbf42238dbc8a0", "pmcid": "PMC13336886", "doi": "10.1002/advs.76132", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_621b9c4e49732984", "pmcid": "PMC11728449", "doi": "10.3390/microorganisms12122495", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_62a081e294ccb1c7", "pmcid": "PMC11477918", "doi": "10.3390/ma17194758", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_62b3c907ff1c8ac6", "pmcid": "PMC11722928", "doi": "10.3390/polym17010098", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_63197b9d2663abcd", "pmcid": "PMC13207642", "doi": "10.3390/jfb17050218", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_6325b4a64ccdeceb", "pmcid": "PMC11356081", "doi": "10.3390/ma17164110", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_63377451f80f0223", "pmcid": "PMC11597039", "doi": "10.3390/molecules29225418", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_644fb0fd9884044b", "pmcid": "PMC13346769", "doi": "10.1002/smsc.70341", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_645c464446272cf6", "pmcid": "PMC13336702", "doi": "10.1002/advs.76220", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_64748459c5ccfe9f", "pmcid": "PMC11311376", "doi": "10.3390/ijms25158088", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_64887c527f8474a6", "pmcid": "PMC13414595", "doi": "10.3390/molecules31142529", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_6488ac25651cc430", "pmcid": "PMC13112377", "doi": "10.1039/d6ra00765a", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_649802829f1b5438", "pmcid": "PMC11208122", "doi": null, "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_651e310b13029ad2", "pmcid": "PMC12881248", "doi": "10.1186/s13619-026-00283-z", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_65cced7bc0a010b2", "pmcid": "PMC11547552", "doi": "10.3390/molecules29215152", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_65dd1a87831f4b1c", "pmcid": "PMC13538854", "doi": "10.3389/fmicb.2026.1888741", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_6693c67c33ab647e", "pmcid": "PMC13338563", "doi": "10.34133/bmr.0391", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_672827053ad7be4b", "pmcid": "PMC13491366", "doi": "10.1002/advs.77287", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_6729be1d30e16d7e", "pmcid": "PMC11477857", "doi": "10.3390/nano14191577", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_67e1f91e4e08b500", "pmcid": "PMC13387737", "doi": "10.1111/acel.70644", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_68255fd24f877ddf", "pmcid": "PMC10976692", "doi": "10.1186/s12951-024-02422-7", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_689110de088145aa", "pmcid": "PMC13524897", "doi": "10.1007/s13659-026-00628-w", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_68c6b0ed898b2ca9", "pmcid": "PMC13495469", "doi": "10.1186/s12967-026-08828-1", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_68f93a414c04f644", "pmcid": "PMC11174129", "doi": "10.3390/molecules29112418", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_69318c65d868328b", "pmcid": "PMC13138412", "doi": "10.1097/md.0000000000048623", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_69debe7d14cb4647", "pmcid": "PMC13457622", "doi": "10.3389/fchem.2026.1856378", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_69f1b832fc97a6a5", "pmcid": "PMC13454978", "doi": "10.1002/advs.76791", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_6a0aec7fff452ae2", "pmcid": "PMC13379057", "doi": "10.1097/pr9.0000000000001461", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_6b2c9f52d54f9252", "pmcid": "PMC13516869", "doi": "10.1002/smsc.70369", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_6c097b573449937e", "pmcid": "PMC9959252", "doi": "10.3390/pharmaceutics15020710", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_6c3207b47e8c3b0d", "pmcid": "PMC10957957", "doi": "10.1038/s41598-024-56845-1", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_6c7ebaa27b7c0b9d", "pmcid": "PMC13486143", "doi": "10.1002/adma.74004", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_6d16204634d7699a", "pmcid": "PMC12643486", "doi": "10.1172/jci.insight.193593", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_6d486ad784301873", "pmcid": "PMC13298597", "doi": "10.3390/gels12060476", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_6db508ede6433063", "pmcid": "PMC13109136", "doi": "10.1007/s00604-026-08027-1", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_6de223095b105dd2", "pmcid": "PMC13464592", "doi": "10.3390/biology15151277", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_6e144f8212280149", "pmcid": "PMC13455841", "doi": "10.1002/advs.76990", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_6e28af4f9a42efcb", "pmcid": "PMC13454872", "doi": "10.3389/fimmu.2026.1821182", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_6ebe289b9af95487", "pmcid": "PMC13515964", "doi": "10.3390/mi17080983", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_6edcff83ce76bba0", "pmcid": "PMC11644091", "doi": "10.3390/polym16233417", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_6ee34c12beaccf87", "pmcid": "PMC13389295", "doi": "10.1038/s41467-026-75232-0", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_6f3d66c776bc50c1", "pmcid": "PMC13285690", "doi": "10.3389/fnut.2026.1829397", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_6f64252816072c40", "pmcid": "PMC13256379", "doi": "10.3390/ijms27115006", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_6f99a749ffdf8493", "pmcid": "PMC11350009", "doi": "10.1002/alz.14047", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_70f19bc27c29285e", "pmcid": "PMC13164797", "doi": "10.3390/ma19091777", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_70f7c95abc79ed84", "pmcid": "PMC13514461", "doi": "10.3390/ma19163496", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_7107806501209e94", "pmcid": "PMC13363225", "doi": "10.3390/molecules31132346", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_711a3d2dc71bf60e", "pmcid": "PMC12026295", "doi": "10.3390/foods14081327", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_713daf448bff7591", "pmcid": "PMC13572603", "doi": "10.3389/fphar.2026.1872924", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_71902cb0dbf8e9b3", "pmcid": "PMC9457807", "doi": "10.3390/nano12173035", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_71bfe43666c0bfec", "pmcid": "PMC13088558", "doi": "10.1186/s12967-026-08065-6", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_720444ce111b822a", "pmcid": "PMC13472103", "doi": "10.1002/advs.77090", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_724554d712ac1997", "pmcid": "PMC10381157", "doi": "10.3390/jfb14070358", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_73dbcb9087eaaea1", "pmcid": "PMC13512588", "doi": "10.3390/gels12080730", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_750c00ef4739f26f", "pmcid": "PMC13074382", "doi": "10.3390/molecules31071080", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_75e0917327ce0a8b", "pmcid": "PMC13515130", "doi": "10.3390/membranes16080263", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_762c378e869f7af5", "pmcid": "PMC13251872", "doi": "10.1126/sciadv.aed9445", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_7636ec13d09cc3e3", "pmcid": "PMC13079410", "doi": "10.14814/phy2.70851", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_76a49e83a8b12a0f", "pmcid": "PMC13248448", "doi": "10.1186/s12917-026-05598-2", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_77427baf020e3218", "pmcid": "PMC13538560", "doi": "10.1038/s41598-026-56732-x", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_77db7f5a6a7b95a7", "pmcid": "PMC13566744", "doi": "10.1039/d6ra02212j", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_77e2ccd911a24a28", "pmcid": "PMC12986951", "doi": "10.3390/nu18050757", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_77eaa005064f1aeb", "pmcid": "PMC13165225", "doi": "10.3390/molecules31091426", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_78c90e59e88d05ee", "pmcid": "PMC13586132", "doi": "10.1186/s43046-026-00412-4", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_79058fb60390393a", "pmcid": "PMC12807971", "doi": "10.3389/fendo.2025.1723927", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_79c0c1a73f3b280b", "pmcid": "PMC13336377", "doi": "10.1002/advs.75894", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_7a186925a4b13f67", "pmcid": "PMC13416409", "doi": "10.3390/nano16140880", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_7ad3e4cf7d4fea31", "pmcid": "PMC9325305", "doi": "10.3390/mi13070992", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_7ae747b4892897d6", "pmcid": "PMC13495563", "doi": "10.1155/bri/8058282", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_7af8af4e281270dc", "pmcid": "PMC13502182", "doi": "10.1172/jci.insight.201178", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_7bbb411ba1a7fd08", "pmcid": "PMC13348212", "doi": "10.1080/14686996.2026.2688057", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_7be3331d924da8ea", "pmcid": "PMC11751383", "doi": "10.1038/s41378-024-00863-6", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_7c76bb5a0404f0fe", "pmcid": "PMC13031469", "doi": "10.1007/s40820-026-02109-8", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_7cb8e03c15b65446", "pmcid": "PMC13092805", "doi": "10.1002/fsn3.71798", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_7ce35505f31fba18", "pmcid": "PMC13240318", "doi": "10.1002/cre2.70382", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_7ce94934d80d71e9", "pmcid": "PMC12701323", "doi": "10.1002/edm2.70147", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_7d358b59dbb5a3f0", "pmcid": "PMC13448452", "doi": "10.1039/d6ra05763b", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_7d73fc41de1718b2", "pmcid": "PMC11434197", "doi": "10.3390/ma17184671", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_7d7e6bd016f2404e", "pmcid": "PMC12693152", "doi": "10.3390/molecules30234640", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_7dd9dcb4eb003018", "pmcid": "PMC13430926", "doi": "10.1002/advs.76912", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_7debe58afe58d065", "pmcid": "PMC13430446", "doi": "10.1039/d6ra02463g", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_7df2933b678f7acb", "pmcid": "PMC13389852", "doi": "10.1039/d6ra04119a", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_7ed4858f7d989610", "pmcid": "PMC12737212", "doi": "10.3390/polym17243250", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_7fce5241e1a271f1", "pmcid": "PMC13575626", "doi": "10.1002/brb3.71699", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_800077e3fe21d93a", "pmcid": "PMC13346496", "doi": "10.1038/s41598-026-52607-3", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_803083920cc3727e", "pmcid": "PMC10142822", "doi": "10.3390/nano13081309", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_804a86f91aa83a4f", "pmcid": "PMC13100300", "doi": "10.1002/brb3.71411", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_8051978f50be5985", "pmcid": "PMC13376114", "doi": "10.1007/s40820-026-02295-5", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_8060fc23cb90f2f6", "pmcid": "PMC12736999", "doi": "10.3390/polym17243334", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_80894a99b03924a1", "pmcid": "PMC10296251", "doi": "10.3390/bios13060646", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_818f8bec0227cd3a", "pmcid": "PMC13553934", "doi": "10.3389/fbioe.2026.1879913", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_81903892c53c8c38", "pmcid": "PMC12308914", "doi": "10.1039/d5na00350d", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_81bcbbecb7bf2260", "pmcid": "PMC10082567", "doi": "10.1002/ctm2.1233", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_81fbc5202e69ab2e", "pmcid": "PMC13518511", "doi": "10.3389/fnagi.2026.1839445", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_82316c068001bda4", "pmcid": "PMC13556167", "doi": "10.1002/fsn3.72335", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_82fa67502d37bb5e", "pmcid": "PMC13512274", "doi": "10.3390/gels12080722", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_834f4b333e01387b", "pmcid": "PMC9787487", "doi": "10.3390/mi13122142", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_839e286925c82a45", "pmcid": "PMC11276094", "doi": "10.3390/gels10070450", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_8442ef6b22f5b925", "pmcid": "PMC13532184", "doi": "10.1128/spectrum.00664-26", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_8469dc03d3479071", "pmcid": "PMC13363474", "doi": "10.3390/ma19132771", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_84c6e546d2a26ad3", "pmcid": "PMC12663526", "doi": "10.1002/fsn3.71279", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_8504b2e817752cc6", "pmcid": "PMC13165135", "doi": "10.3390/molecules31091457", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_85fa291496f4d923", "pmcid": "PMC13154723", "doi": "10.1002/cssc.70697", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_86ce4849f9ddebd9", "pmcid": "PMC13409810", "doi": "10.3390/ijms27146392", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_871d079e28d82697", "pmcid": "PMC12845530", "doi": "10.3390/polym18020226", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_88ce13e00cd758b7", "pmcid": "PMC13209516", "doi": "10.3390/molecules31101752", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_89353873e4ac0d88", "pmcid": "PMC13392970", "doi": "10.1016/j.hazmo.2026.100016", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_89fbdd8e8cba6a37", "pmcid": "PMC12692918", "doi": "10.3390/ma18235405", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_8a1465f080ed87c0", "pmcid": "PMC13297724", "doi": "10.3390/foods15122105", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_8b75e1db26de2a39", "pmcid": "PMC11242075", "doi": "10.3390/ma17133166", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_8baa344256cfe49a", "pmcid": "PMC13027415", "doi": "10.3390/ma19061169", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_8c131597db6c5638", "pmcid": "PMC13113610", "doi": "10.3390/biology15080606", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_8c2623eeaab3fc14", "pmcid": "PMC11547643", "doi": "10.3390/molecules29215065", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_8cd67aad271ab5c1", "pmcid": "PMC13361724", "doi": "10.3390/foods15132331", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_8ce6311b9020a6e4", "pmcid": "PMC13509875", "doi": "10.3390/biomimetics11080594", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_8d4b4f0c49bc30d7", "pmcid": "PMC13530373", "doi": "10.34133/bmr.0410", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_8dbc60869d18ca52", "pmcid": "PMC10933983", "doi": "10.3390/polym16050712", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_8e70fbb895878f91", "pmcid": "PMC12846266", "doi": "10.3390/polym18020205", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_8e73cbbb237870f6", "pmcid": "PMC10630799", "doi": "10.1002/fsn3.3665", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_8eddb9f49edcf507", "pmcid": "PMC10974927", "doi": "10.3390/nano14060505", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_8edfa96aa6b225e4", "pmcid": "PMC12843190", "doi": "10.3390/ma19020395", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_8fd20b97af874589", "pmcid": "PMC13469750", "doi": "10.1155/jnme/9655398", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_90a461eb22c11f53", "pmcid": "PMC13326000", "doi": "10.1111/cpr.70240", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_90d3d3c5cf62d9d0", "pmcid": "PMC13452019", "doi": "10.1002/ccs3.70104", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_90f802e046a2ea87", "pmcid": "PMC13363967", "doi": "10.3390/polym18131602", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_91a20a4ea183ba25", "pmcid": "PMC12908399", "doi": "10.1186/s12866-025-04629-6", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_91b13937a1dbf40e", "pmcid": "PMC13424056", "doi": "10.1007/s40820-026-02313-6", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_92ba3def5ac6a923", "pmcid": "PMC12736366", "doi": "10.3390/nano15241841", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_92c8e589ef9a0bbe", "pmcid": "PMC13588712", "doi": "10.1093/stcltm/szag082", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_93423f968e28786d", "pmcid": "PMC13344635", "doi": "10.1002/cns.71006", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_938ba11c0814f21c", "pmcid": "PMC12224485", "doi": "10.1186/s13065-025-01549-4", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_939114c1d7a63817", "pmcid": "PMC12683514", "doi": "10.1039/d5ra06933e", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_93a515815881bde1", "pmcid": "PMC11171868", "doi": "10.3390/foods13111600", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_9482ac1f30a9a33a", "pmcid": "PMC12805609", "doi": "10.1002/adhm.202502570", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_9500dcec79fd88b5", "pmcid": "PMC13140840", "doi": "10.1111/acel.70455", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_9530420681010101", "pmcid": "PMC11164484", "doi": "10.18632/aging.205851", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_95848cfb346ffc2f", "pmcid": "PMC12196895", "doi": "10.3390/toxics13060459", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_95a6ccff8fcdd08a", "pmcid": "PMC11206920", "doi": "10.3390/nu16121870", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_95b62f7c3aa014bf", "pmcid": "PMC13567053", "doi": "10.3390/nano16171101", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_95ba33c131ef5a09", "pmcid": "PMC13448156", "doi": "10.1002/jex2.70174", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_96ee4e8289c9e010", "pmcid": "PMC13515591", "doi": "10.3390/mi17080910", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_979b5566538636f5", "pmcid": "PMC13334635", "doi": "10.1002/advs.202523002", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_97ad78246d1d4fec", "pmcid": "PMC13403631", "doi": "10.3390/antibiotics15070711", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_97adcd259a38b6e9", "pmcid": "PMC13498861", "doi": "10.14814/phy2.71077", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_986a8de05d518e3f", "pmcid": "PMC13408398", "doi": "10.3389/fphar.2026.1836847", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_98f2353023438888", "pmcid": "PMC11643862", "doi": "10.3390/nu16234012", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_98ffe2ad6ac18f2a", "pmcid": "PMC13533838", "doi": "10.1038/s41593-026-02367-0", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_999141ab5c7bdba8", "pmcid": "PMC13465147", "doi": "10.3390/ijms27156569", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_99b00c538642cdd2", "pmcid": "PMC12856266", "doi": "10.3389/fimmu.2025.1698674", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_9a2a9fe1cf81106c", "pmcid": "PMC13294445", "doi": "10.1093/rb/rbag091", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_9aa74907806c2555", "pmcid": "PMC13100308", "doi": "10.1111/acel.70509", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_9ad981e85bf8e777", "pmcid": "PMC13468774", "doi": "10.3390/polym18151854", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_9b1db633b7ca9efa", "pmcid": "PMC13310876", "doi": "10.1186/s43556-026-00507-3", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_9b8b0db7ee871bd9", "pmcid": "PMC13284262", "doi": "10.1038/s41598-026-50227-5", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_9bd839c44461e081", "pmcid": "PMC13218675", "doi": "10.1097/hc9.0000000000000937", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_9bd8e4c1049074f2", "pmcid": "PMC13458688", "doi": "10.1039/d6ra04624j", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_9bdc387db158d84f", "pmcid": "PMC13325527", "doi": "10.1039/d6ra03855g", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_9bf0eb5330d94e80", "pmcid": "PMC13079886", "doi": "10.1038/s41598-026-45548-4", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_9c5620cf2c859bc9", "pmcid": "PMC11267475", "doi": "10.34133/research.0326", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_9c5c22c4c66281e6", "pmcid": "PMC12944202", "doi": "10.3390/polym18040459", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_9ca371239238550a", "pmcid": "PMC13165034", "doi": "10.3390/ma19091837", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_9cc16b9d73b0a097", "pmcid": "PMC13395840", "doi": "10.1007/s00203-026-05067-2", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_9d26d56070d83e1e", "pmcid": "PMC13326228", "doi": "10.1039/d5ra08825a", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_9d3fa553c13a0b22", "pmcid": "PMC13454458", "doi": "10.3389/fchem.2026.1901405", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_9d587967e380c0b0", "pmcid": "PMC13410169", "doi": "10.3390/ijms27146296", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_9d64a920a43bd42b", "pmcid": "PMC13256642", "doi": "10.3390/foods15111993", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_9d983488c0a4c6d4", "pmcid": "PMC13361936", "doi": "10.3390/ijms27135689", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_9dbaaf420245d8a2", "pmcid": "PMC11432926", "doi": "10.3390/ma17184485", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_9e1a070ce70eba36", "pmcid": "PMC11492830", "doi": "10.1039/d4ra04744c", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_9e2fd1e78defc375", "pmcid": "PMC10133308", "doi": "10.1038/s41598-023-34099-7", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_9eb863286524bb52", "pmcid": "PMC13296134", "doi": null, "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_9ee7f505dfc3c9ef", "pmcid": "PMC11722802", "doi": "10.3390/s25010012", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_9fad72138a3a1db7", "pmcid": "PMC11476571", "doi": "10.3390/ijms251910432", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_9fe125b36045452c", "pmcid": "PMC13398130", "doi": "10.1002/advs.76774", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_a14c6ca3c8defd41", "pmcid": "PMC11809399", "doi": "10.1002/advs.202413779", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_a2f0b283c9200511", "pmcid": "PMC13444124", "doi": "10.1038/s41467-026-74714-5", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_a31c8dafd9bdb317", "pmcid": "PMC13298068", "doi": null, "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_a34bde865fe05ffa", "pmcid": "PMC13338084", "doi": "10.1007/s13205-026-04932-7", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_a39f340b5e07e399", "pmcid": "PMC13187436", "doi": "10.1038/s41598-026-52863-3", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_a4a34e7ebc8cc1ff", "pmcid": "PMC11321671", "doi": "10.1002/advs.202403516", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_a4d50d17eddfbf5b", "pmcid": "PMC13416182", "doi": "10.3390/ph19071087", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_a4e00e386437e4e5", "pmcid": "PMC13257690", "doi": "10.3390/nano16110666", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_a4f6595cc603ccc4", "pmcid": "PMC9659196", "doi": "10.3390/polym14214517", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_a548d67694ca7036", "pmcid": "PMC12735255", "doi": "10.3390/ma18245587", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_a554bef2783745ca", "pmcid": "PMC10135080", "doi": "10.3390/antiox12040823", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_a5b592d31f77f430", "pmcid": "PMC13501367", "doi": "10.1039/d6ra06114a", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_a5bc99cf8131ec0b", "pmcid": "PMC12789477", "doi": "10.1038/s41598-025-30768-x", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_a628dc6137a97ba1", "pmcid": "PMC13533349", "doi": "10.1371/journal.pone.0356285", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_a6338fd88a5597f0", "pmcid": "PMC13470327", "doi": "10.1038/s44321-026-00473-x", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_a634eb2b14c21020", "pmcid": "PMC11542400", "doi": "10.1186/s41065-024-00345-9", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_a65e8df3bf865448", "pmcid": "PMC13472692", "doi": "10.1093/eurheartj/ehag187", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_a76acf675b4e876f", "pmcid": "PMC13069045", "doi": "10.1186/s11671-026-04532-7", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_a8a56353c24ca6af", "pmcid": "PMC13468628", "doi": "10.3390/molecules31152631", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_a90895ed551b7df0", "pmcid": "PMC13503938", "doi": "10.1038/s41467-026-75734-x", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_a922f518f2487066", "pmcid": "PMC13482395", "doi": "10.1038/s41467-026-74852-w", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_a9a94ac6c39cbf84", "pmcid": "PMC13251858", "doi": "10.1126/sciadv.adz1953", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_a9b34a828174142c", "pmcid": "PMC13469921", "doi": "10.3390/s26154864", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_a9b9035c5272e817", "pmcid": "PMC11703554", "doi": "10.1093/rb/rbae134", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_a9f3b73e18609262", "pmcid": "PMC13545421", "doi": "10.1002/fsn3.72275", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_aa8e4731ed051bf5", "pmcid": "PMC13540451", "doi": "10.7150/ijbs.138299", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_aac32401ad5644d4", "pmcid": "PMC13362804", "doi": "10.3390/ma19132850", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_aada2c46b6894bef", "pmcid": "PMC13021422", "doi": "10.3389/fimmu.2026.1775412", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_abaad45df91b5919", "pmcid": "PMC13233644", "doi": "10.1007/s12013-026-02033-z", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_aca327764a40755c", "pmcid": "PMC13411936", "doi": "10.1371/journal.ppat.1013832", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_ace20853d344b4a2", "pmcid": "PMC13165264", "doi": "10.3390/molecules31091377", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_acee45dbbe904ac7", "pmcid": "PMC13575506", "doi": "10.1002/fsn3.72362", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_ae045704822ec6fb", "pmcid": "PMC9031515", "doi": "10.3390/mi13040552", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_ae517eee01d50c43", "pmcid": "PMC13491314", "doi": "10.1039/d6ra03226e", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_ae728f8d2f7397f5", "pmcid": "PMC13400180", "doi": "10.1111/1758-2229.70391", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_afdd5e81982bb4f1", "pmcid": "PMC13381509", "doi": "10.3389/fbioe.2026.1806381", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_b0ee7995365c0354", "pmcid": "PMC12939566", "doi": "10.3390/dj14020094", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_b10196162a8255b3", "pmcid": "PMC13115012", "doi": "10.3390/cells15080697", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_b138f569190f0e92", "pmcid": "PMC13458683", "doi": "10.1038/s41598-026-64464-1", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_b164e660018a5579", "pmcid": "PMC13411664", "doi": "10.3390/ijms27146440", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_b20157d69a059a4c", "pmcid": "PMC13448095", "doi": "10.1002/mnfr.70579", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_b21a25bbd975122c", "pmcid": "PMC13418045", "doi": "10.1002/advs.76906", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_b2368f20a5e41a5c", "pmcid": "PMC11169236", "doi": "10.1038/s41598-024-63585-9", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_b276a13b816462f6", "pmcid": "PMC13208033", "doi": "10.3390/ijms27104310", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_b2872d66dc01b8b4", "pmcid": "PMC13208595", "doi": "10.3390/ma19101921", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_b2896b72e5688cb5", "pmcid": "PMC13499807", "doi": "10.1038/s41598-026-66143-7", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_b293feaee9693611", "pmcid": "PMC9219834", "doi": "10.3390/antiox11061064", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_b37e8d4d2b9595e1", "pmcid": "PMC13406424", "doi": "10.3390/cimb48070655", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_b44e181e29e0940b", "pmcid": "PMC13516286", "doi": "10.3390/nano16161025", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_b490cef14bca0d6c", "pmcid": "PMC10857053", "doi": "10.3390/nano14030284", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_b5a1991c4d527f7e", "pmcid": "PMC13487176", "doi": "10.1038/s41467-026-76307-8", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_b5c2e7e255206f4f", "pmcid": "PMC12295495", "doi": "10.3390/foods14142470", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_b62ef1dfc267a595", "pmcid": "PMC12960076", "doi": "10.3389/fcell.2026.1787688", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_b633a3d8a35b23ed", "pmcid": "PMC13378515", "doi": "10.1039/d6ra04019e", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_b6586404db1886f2", "pmcid": "PMC12641367", "doi": "10.1002/smtd.202500301", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_b65a69d4df978b9a", "pmcid": "PMC13198047", "doi": "10.1186/s12929-026-01258-7", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_b728f78c7d351de9", "pmcid": "PMC13456038", "doi": "10.1039/d6ra03562k", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_b72e367864717f83", "pmcid": "PMC13298484", "doi": "10.3390/cimb48060581", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_b72fdb162a83a086", "pmcid": "PMC13208126", "doi": "10.3390/jfb17050256", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_b79fa428a31b997a", "pmcid": "PMC12899785", "doi": "10.3390/molecules31030468", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_b832d93bb9503627", "pmcid": "PMC13514975", "doi": "10.3390/ma19163549", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_b877aa4dcefa6b77", "pmcid": "PMC13041228", "doi": "10.1186/s12964-026-02747-w", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_b9811ed14e2cb0b7", "pmcid": "PMC13373456", "doi": "10.1002/open.70260", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_ba5762314a3af224", "pmcid": "PMC11121362", "doi": "10.3390/ijms25105313", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_ba7d646bd9a84d15", "pmcid": "PMC13549009", "doi": "10.1039/d6ra05886h", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_bab96d9ce424226e", "pmcid": "PMC13118529", "doi": "10.3390/molecules31081296", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_bb0a05171f5390af", "pmcid": "PMC13542888", "doi": "10.1039/d6ra06043a", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_bb174691a5b582e2", "pmcid": "PMC12692610", "doi": "10.3390/ijms262311270", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_bbaf84a14acebeb2", "pmcid": "PMC13258799", "doi": "10.3390/molecules31111815", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_bc1e1740782a44b0", "pmcid": "PMC13205870", "doi": "10.1002/advs.202504511", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_bcdb0d4e34f7958a", "pmcid": "PMC9495392", "doi": "10.3390/antiox11091643", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_bcdd8f5143dd4906", "pmcid": "PMC13515380", "doi": "10.3390/molecules31162843", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_bd0b36ceddc0760f", "pmcid": "PMC13398156", "doi": "10.1002/fsn3.72151", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_bd405dcdf4505cd7", "pmcid": "PMC13514525", "doi": "10.3390/jfb17080367", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_bddc1b99cf827f28", "pmcid": "PMC12984772", "doi": "10.3390/cells15050455", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_bde0afab1cdea70e", "pmcid": "PMC13440466", "doi": "10.7150/thno.136733", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_be08f05fcb271d69", "pmcid": "PMC12755309", "doi": "10.5599/admet.2968", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_be15505539197718", "pmcid": "PMC13025667", "doi": "10.3390/foods15061016", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_be98a87c2bf59b4d", "pmcid": "PMC13388455", "doi": "10.1007/s00216-026-06595-y", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_be9c9d4ff6ece9bd", "pmcid": "PMC13486170", "doi": "10.3389/fbioe.2026.1872283", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_bf540a26166c1ab2", "pmcid": "PMC13449535", "doi": "10.1002/advs.76900", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_bfc535fed813528b", "pmcid": "PMC13324726", "doi": "10.1038/s44318-026-00817-w", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_c0f34336b22954a4", "pmcid": "PMC13434109", "doi": "10.1038/s41467-026-73904-5", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_c0f5b55684865343", "pmcid": "PMC8955666", "doi": "10.3390/nano12061026", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_c0f9a868c14edf2a", "pmcid": "PMC13361832", "doi": "10.3390/foods15132327", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_c121499a902986c9", "pmcid": "PMC13364294", "doi": "10.3390/polym18131643", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_c16bfb0b2c7e55f5", "pmcid": "PMC12692847", "doi": "10.3390/molecules30234598", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_c1e9368020a51cce", "pmcid": "PMC13509524", "doi": "10.3390/antibiotics15080767", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_c2042facabbc8c63", "pmcid": "PMC13482942", "doi": "10.1002/advs.77232", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_c2370742c6d091dd", "pmcid": "PMC10110615", "doi": "10.1038/s41598-023-32719-w", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_c370860cf03ff32f", "pmcid": "PMC13413896", "doi": "10.3390/microorganisms14071429", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_c3b35f0c748dd734", "pmcid": "PMC12834999", "doi": "10.1038/s41598-025-33482-w", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_c3b8855ce2729df6", "pmcid": "PMC9698867", "doi": "10.3390/s22228971", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_c40f34248fa5db0f", "pmcid": "PMC13479592", "doi": "10.1002/advs.77175", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_c45dd8dfb7041c20", "pmcid": "PMC13329126", "doi": "10.1111/jcmm.71276", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_c4d3bc9e6beccf49", "pmcid": "PMC11520895", "doi": "10.1038/s41378-024-00752-y", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_c4e89d8725957327", "pmcid": "PMC13163696", "doi": "10.3390/ijms27093822", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_c51377bff4f1319a", "pmcid": "PMC13547795", "doi": "10.1002/advs.77526", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_c51853ffa9da264f", "pmcid": "PMC13206805", "doi": "10.3390/ijms27104463", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_c51a2eb82e9815a5", "pmcid": "PMC13258059", "doi": "10.3390/ma19112397", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_c58c680ef9d9faab", "pmcid": "PMC13485809", "doi": "10.3389/fphar.2026.1893339", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_c5d583ee4137a3d4", "pmcid": "PMC13279431", "doi": "10.3389/fcimb.2026.1805111", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_c63326c70ffac122", "pmcid": "PMC13485732", "doi": "10.3389/fncel.2026.1901103", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_c664eec326de51d9", "pmcid": "PMC13451647", "doi": "10.1002/fsn3.72162", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_c6762b70acabde3c", "pmcid": "PMC13408602", "doi": "10.1038/s41598-026-63309-1", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_c6e3efb3d18df78a", "pmcid": "PMC12261991", "doi": "10.1039/d5na00355e", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_c74dec855a7635b2", "pmcid": "PMC13388637", "doi": "10.1007/s10856-026-07082-7", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_c7a1fcaba0eeaa73", "pmcid": "PMC12652241", "doi": "10.3390/foods14223980", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_c7eddf5a05585778", "pmcid": "PMC13330787", "doi": "10.1039/d6ra04009h", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_c7f2a9112428bfa0", "pmcid": "PMC13376122", "doi": "10.3389/fimmu.2026.1871988", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_c82304a9ec43fa1f", "pmcid": "PMC13207314", "doi": "10.3390/jcm15103947", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_c85bc04ffd781e4f", "pmcid": "PMC11398076", "doi": "10.3390/polym16172471", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_c8ed1a409f2b14fd", "pmcid": "PMC13457214", "doi": "10.3389/fendo.2026.1888104", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_c92b951c500d6b49", "pmcid": "PMC13306725", "doi": "10.3390/s26123877", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_c9311850f29a90cd", "pmcid": "PMC13362987", "doi": "10.3390/ma19132866", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_c9345eb95c9a70ed", "pmcid": "PMC13501168", "doi": "10.2340/biid.v13.46738", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_c9977c20af266c2f", "pmcid": "PMC11120807", "doi": "10.3390/ijms25105066", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_c9d422312a6d82cb", "pmcid": "PMC12950079", "doi": "10.1007/s00604-026-07939-2", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_ca59ce6b9bc7db55", "pmcid": "PMC13414934", "doi": "10.3390/ph19071111", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_ca93ae9e44dfa4f5", "pmcid": "PMC11551174", "doi": "10.1038/s41598-024-76397-8", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_caa8593b74840ed1", "pmcid": "PMC10295301", "doi": "10.3390/biomedicines11061534", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_cb7e0fc7bb8f041a", "pmcid": "PMC13379263", "doi": "10.1002/advs.76634", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_cba42f4e625157c8", "pmcid": "PMC13547165", "doi": "10.1007/s00784-026-07125-x", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_cbaff6b91edb649f", "pmcid": "PMC11350819", "doi": "10.3390/antibiotics13080728", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_ccf860284bed7455", "pmcid": "PMC13482940", "doi": "10.1002/advs.77176", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_cd3636d58bb3607d", "pmcid": "PMC13171549", "doi": "10.3389/fbioe.2026.1825302", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_cd49b24360a374fd", "pmcid": "PMC13463749", "doi": "10.1002/fsn3.72181", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_ce16b3fad741203f", "pmcid": "PMC12110226", "doi": "10.3390/bios15050311", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_ce38e77d6e82656c", "pmcid": "PMC12823987", "doi": "10.3389/fbioe.2025.1739989", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_ce80dbcdf28de9c0", "pmcid": "PMC13363057", "doi": "10.3390/nano16130796", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_ce9274d282b8f801", "pmcid": "PMC13567657", "doi": "10.3390/ma19173687", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_cea65e8fd1127b5f", "pmcid": "PMC13463120", "doi": "10.1039/d6ra06709c", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_cf03ea75cf864eee", "pmcid": "PMC11434436", "doi": "10.3390/molecules29184299", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_cf517cf0e699e6c5", "pmcid": "PMC13399741", "doi": "10.1002/kjm2.70209", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_cf63b17088d3ef8d", "pmcid": "PMC13209062", "doi": "10.3390/mi17050545", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_cf69d7a13c9cb6bd", "pmcid": "PMC13563441", "doi": "10.1039/d6cp02655a", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_cf9e5730247d4bd0", "pmcid": "PMC13157503", "doi": "10.1038/s41598-026-49485-0", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_cfaeacdec0ac7f64", "pmcid": "PMC13150340", "doi": "10.1155/jdr/3449648", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_d0e44f0dae65bf78", "pmcid": "PMC13566674", "doi": "10.3390/ma19173575", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_d10d8185c9ff9fc4", "pmcid": "PMC13135791", "doi": "10.1002/cre2.70362", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_d13a8f3a0b84bae5", "pmcid": "PMC13479852", "doi": "10.1002/advs.76979", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_d1a290986da77788", "pmcid": "PMC13208343", "doi": "10.3390/ma19102086", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_d1c19666e54bbd1e", "pmcid": "PMC13275334", "doi": "10.1111/iwj.70977", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_d1d37af6d693a3d7", "pmcid": "PMC13502010", "doi": "10.1080/19490976.2026.2718681", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_d2a0f4a249f28168", "pmcid": "PMC11592588", "doi": "10.3390/cells13221862", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_d2c07d507eefb8bb", "pmcid": "PMC11463261", "doi": "10.1126/sciadv.adl4374", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_d2de6e6880817d39", "pmcid": "PMC13443782", "doi": "10.1038/s44324-026-00119-z", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_d354463178a03174", "pmcid": "PMC13133399", "doi": "10.1038/s41598-026-47261-8", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_d371210979d28095", "pmcid": "PMC13518768", "doi": "10.1186/s11671-026-04877-z", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_d389de1f38b23cd8", "pmcid": "PMC13337368", "doi": "10.3389/fendo.2026.1814026", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_d3b0d24891b103d1", "pmcid": "PMC13513214", "doi": "10.3390/ijms27167321", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_d3bf167f52df4717", "pmcid": "PMC13330724", "doi": "10.1039/d6ra03452g", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_d4d6aec0720ae9a0", "pmcid": "PMC13567293", "doi": "10.3390/ma19173774", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_d4eb27ec7fa3910a", "pmcid": "PMC13297455", "doi": "10.3390/biotech15020036", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_d574ca08dfb6468c", "pmcid": "PMC13407183", "doi": "10.3389/fimmu.2026.1820099", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_d5751ee8073c159a", "pmcid": "PMC12985537", "doi": "10.3390/molecules31050794", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_d58101e22ce8514b", "pmcid": "PMC13270850", "doi": "10.1186/s13018-026-06853-w", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_d59ca87a2b69c168", "pmcid": "PMC11728430", "doi": "10.3390/microorganisms12122478", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_d5fc7ba046c3f9bb", "pmcid": "PMC13566936", "doi": "10.3390/nano16171079", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_d608d6fd7c77aa4b", "pmcid": "PMC13074408", "doi": "10.3390/polym18070815", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_d62dc1a5854c6b78", "pmcid": "PMC13463716", "doi": "10.3390/ani16152287", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_d7140f0699c4d18a", "pmcid": "PMC13580173", "doi": "10.1002/advs.77652", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_d725d8544d10e1f7", "pmcid": "PMC13551434", "doi": "10.1039/d6ra06929k", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_d72c5bc8d078166b", "pmcid": "PMC13329778", "doi": "10.1039/d6ra02954j", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_d78be20bf510511c", "pmcid": "PMC13305907", "doi": "10.3390/molecules31122152", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_d7925add0c156294", "pmcid": "PMC10989147", "doi": "10.1002/imt2.163", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_d7931001bf98934e", "pmcid": "PMC13395918", "doi": "10.3389/fcvm.2026.1857264", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_d7b1c908ef1a70d9", "pmcid": "PMC13390252", "doi": "10.1186/s12929-026-01281-8", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_d7dafcc7af62cec3", "pmcid": "PMC13391258", "doi": "10.3389/fimmu.2026.1798798", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_d7f2140bbb255ace", "pmcid": "PMC13522948", "doi": "10.1039/d6ra03962f", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_d8191bcbb0e4f759", "pmcid": "PMC13304133", "doi": "10.3390/microorganisms14061242", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_d83a0a1f8d94adc4", "pmcid": "PMC13379213", "doi": "10.1002/advs.76701", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_d869f50ab28d98dc", "pmcid": "PMC13485921", "doi": "10.3389/fnut.2026.1909657", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_d8f5e41342cd8f28", "pmcid": "PMC13297068", "doi": null, "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_d94131694aeccd07", "pmcid": "PMC13587947", "doi": "10.1002/advs.74927", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_d9840e174cb868d6", "pmcid": "PMC13165082", "doi": "10.3390/polym18091026", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_da2af35ed44345d1", "pmcid": "PMC9608083", "doi": "10.3390/mi13101651", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_da898761105fc400", "pmcid": "PMC12625001", "doi": "10.1186/s13020-025-01255-2", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_da8d2c1ce02c365d", "pmcid": "PMC12939795", "doi": "10.3390/foods15040763", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_da8eb5e9fb6b8c51", "pmcid": "PMC12428745", "doi": "10.3390/foods14173033", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_db48255f7afe6bf3", "pmcid": "PMC13397911", "doi": "10.3390/jox16040126", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_db9dbae22abdcb0c", "pmcid": "PMC11349188", "doi": "10.1093/rb/rbae090", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_dbbd4ecabb901900", "pmcid": "PMC13414404", "doi": "10.3390/membranes16070230", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_dbe2020138237af4", "pmcid": "PMC11674141", "doi": "10.7717/peerj.18722", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_dc1b587537a98754", "pmcid": "PMC13178539", "doi": "10.1113/jp290316", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_dc26d9891a74ca09", "pmcid": "PMC13109771", "doi": "10.1111/apha.70231", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_dd44d31e73247a25", "pmcid": "PMC13547695", "doi": "10.1002/advs.77517", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_dd88ba15b5881621", "pmcid": "PMC12991253", "doi": "10.1371/journal.pone.0342446", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_ddd72d973976b282", "pmcid": "PMC13024462", "doi": "10.3390/bios16030143", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_dea7dcacef4804b3", "pmcid": "PMC13413956", "doi": "10.3390/ma19143093", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_ded7d50e409f5d19", "pmcid": "PMC13363384", "doi": "10.3390/nano16130790", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_dee3bda4d62c6bfa", "pmcid": "PMC13207814", "doi": "10.3390/ijms27104240", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_df1c4280776d3c9a", "pmcid": "PMC9296503", "doi": "10.1038/s41598-022-16714-1", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_df40b0dd34894298", "pmcid": "PMC12468322", "doi": "10.3390/cimb47090748", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_df56e42571632b1a", "pmcid": "PMC13486732", "doi": "10.34133/bmr.0405", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_df66b92c73c0a5d5", "pmcid": "PMC11416762", "doi": "10.7717/peerj.18068", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_e0838e8312362733", "pmcid": "PMC13515648", "doi": "10.3390/mi17080959", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_e09021fa21dff9b1", "pmcid": "PMC13290014", "doi": "10.1002/cre2.70395", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_e1353ca691734122", "pmcid": "PMC13440472", "doi": "10.7150/thno.136220", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_e17f7f83c2c7aafd", "pmcid": "PMC11150146", "doi": "10.1111/cpr.13607", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_e1ca73d687f2d6a4", "pmcid": "PMC13362803", "doi": "10.3390/molecules31132221", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_e1cc4d43feeb710f", "pmcid": "PMC11687008", "doi": "10.1186/s10020-024-01058-5", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_e1ef958a8f2b9b92", "pmcid": "PMC13516839", "doi": "10.3390/ph19081299", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_e387f297ac0305bf", "pmcid": "PMC13381185", "doi": "10.3389/fimmu.2026.1865157", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_e3e9bf9e11d30e63", "pmcid": "PMC13578040", "doi": "10.1007/s00203-026-05191-z", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_e3fb619587a16bc3", "pmcid": "PMC11207420", "doi": "10.3390/polym16121647", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_e4cfddea9ac2a127", "pmcid": "PMC11434264", "doi": "10.3390/molecules29184365", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_e54d3406fffb3b75", "pmcid": "PMC13431570", "doi": "10.3390/vetsci13070621", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_e582bc48e8ac493b", "pmcid": "PMC13517660", "doi": "10.3390/vetsci13080745", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_e59024f89fa58fd6", "pmcid": "PMC12986135", "doi": "10.3390/ma19050976", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_e597f9c985129e76", "pmcid": "PMC13562916", "doi": "10.1002/fsn3.72294", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_e652ee49dfe6b8b8", "pmcid": "PMC13359399", "doi": "10.1002/advs.76574", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_e6d7b43fdfb58edf", "pmcid": "PMC13501536", "doi": "10.1093/ecco-jcc/jjag120", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_e7315b54d69bd2df", "pmcid": "PMC13561091", "doi": "10.1098/rsos.251931", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_e7c2ec0bc6d28b7f", "pmcid": "PMC13267160", "doi": "10.1002/jcla.70266", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_e7d2e7a592a2c456", "pmcid": "PMC12942437", "doi": "10.3390/ma19040812", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_e7d5ff2d9cb0453c", "pmcid": "PMC11719736", "doi": "10.3390/ijms26010196", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_e83c455eefc3159f", "pmcid": "PMC13258703", "doi": "10.3390/ma19112196", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_e8a6db0f14f2c2c8", "pmcid": "PMC13073559", "doi": "10.3390/ijms27073133", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_e8c49daf193be3ae", "pmcid": "PMC13548995", "doi": "10.1002/smll.74486", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_e90ef17c4f8f3044", "pmcid": "PMC13348712", "doi": "10.1093/rb/rbag126", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_e925eff85523a9ab", "pmcid": "PMC13299653", "doi": null, "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_e92af8a07ebb3fd2", "pmcid": "PMC11660525", "doi": "10.1002/glia.24627", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_e99d88132fd49ee2", "pmcid": "PMC13361204", "doi": "10.3390/foods15132383", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_ea32cac90a9f1460", "pmcid": "PMC13071577", "doi": "10.1039/d5ra09199c", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_ea348465be2b82d6", "pmcid": "PMC12631872", "doi": "10.1002/advs.202504378", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_ead3f6d71015a35f", "pmcid": "PMC13144515", "doi": "10.1038/s12276-026-01690-7", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_eb6bba75495913aa", "pmcid": "PMC13572860", "doi": "10.1002/advs.77699", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_ec001aa97f52709b", "pmcid": "PMC13325639", "doi": "10.1111/cpr.70220", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_ec44a88a84a08581", "pmcid": "PMC10219563", "doi": "10.3390/jcm12103359", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_ec633a704fcb7430", "pmcid": "PMC12640951", "doi": "10.3389/fphar.2025.1669607", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_ec98fcfa5608b8e2", "pmcid": "PMC13029519", "doi": "10.3390/mi17030373", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_ed40e81969f94710", "pmcid": "PMC12857054", "doi": "10.1186/s42826-025-00251-9", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_edc550dbff4bc5bb", "pmcid": "PMC13163402", "doi": "10.3390/ijms27094012", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_ede55fc62689b525", "pmcid": "PMC13381972", "doi": "10.1038/s41598-026-62039-8", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_ee23a24b9709ee6e", "pmcid": "PMC13244134", "doi": "10.1155/ije/6777760", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_ee4b9fb00a484604", "pmcid": "PMC13558104", "doi": "10.3389/fimmu.2026.1909302", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_ee5b1e1c7fdd844f", "pmcid": "PMC11831437", "doi": "10.1002/advs.202410070", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_ee9d9378417598b2", "pmcid": "PMC13529471", "doi": "10.3389/fimmu.2026.1883095", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_eeb79d885a13b0f5", "pmcid": "PMC13275650", "doi": "10.3389/fbioe.2026.1748462", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_eff70c60edf5d427", "pmcid": "PMC13413607", "doi": "10.3390/ma19143069", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_f057d3865ab1dac9", "pmcid": "PMC13027736", "doi": "10.3390/ma19061094", "domain": "materials_sensors", "splits": ["rl"]}
+{"paper_id": "src_f0902ff151093ce5", "pmcid": "PMC12947552", "doi": "10.1080/15476278.2026.2630547", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_f0b43fa6d206198e", "pmcid": "PMC13360084", "doi": "10.3390/biology15131056", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_f0d740c295bbddba", "pmcid": "PMC12839219", "doi": "10.3390/biomedicines14010051", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_f19e719ba19dc93d", "pmcid": "PMC12565990", "doi": "10.3390/molecules30204121", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_f1e96c2915c6cd87", "pmcid": "PMC13103863", "doi": "10.1039/d5ra09755j", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_f1ef70412524111c", "pmcid": "PMC13424096", "doi": "10.1038/s41467-026-74071-3", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_f206bcd0823cf016", "pmcid": "PMC13437042", "doi": "10.1093/rb/rbag143", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_f22be08a01706726", "pmcid": "PMC11206601", "doi": "10.3390/pathogens13060519", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_f2367958f955d0b7", "pmcid": "PMC13511487", "doi": "10.1039/d6ra05398j", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_f32dc1ca225043e4", "pmcid": "PMC13441178", "doi": "10.1093/stcltm/szag056", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_f35a0c046ac67a64", "pmcid": "PMC13204542", "doi": "10.3390/biom16050720", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_f3c02c584845922d", "pmcid": "PMC11597756", "doi": "10.3390/nu16223878", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_f3d841193a2a972c", "pmcid": "PMC13148310", "doi": "10.1126/sciadv.aed0535", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_f3ef826346968913", "pmcid": "PMC13407075", "doi": "10.3390/biom16071001", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_f4262a503e0e49c7", "pmcid": "PMC11507177", "doi": "10.3390/gels10100669", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_f49ed9cfb3a08ff9", "pmcid": "PMC13113994", "doi": "10.3390/bios16040214", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_f4fe7deabbb4369f", "pmcid": "PMC13191582", "doi": "10.1039/d6ra02657e", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_f57e42c93273acdd", "pmcid": "PMC12786703", "doi": "10.3390/ma19010039", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_f5ce415e18c1abf1", "pmcid": "PMC13259449", "doi": "10.3390/polym18111292", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_f5f5407e5af19d05", "pmcid": "PMC13509056", "doi": "10.1002/smll.74393", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_f5fa104bb4a580a1", "pmcid": "PMC12113607", "doi": "10.3390/ma18102320", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_f61abd59c6d0e071", "pmcid": "PMC13468374", "doi": "10.3390/nu18152431", "domain": "biomedical", "splits": ["development"]}
+{"paper_id": "src_f64af66cdbaa18cf", "pmcid": "PMC13562540", "doi": "10.1038/s44321-026-00500-x", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_f67f774851f34cf1", "pmcid": "PMC13068325", "doi": "10.1371/journal.pbio.3003739", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_f69f0bcd32b5a199", "pmcid": "PMC13417139", "doi": "10.3390/s26144389", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_f6dc98f7e1721f01", "pmcid": "PMC13516407", "doi": "10.3390/pharmaceutics18080930", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_f6e275b05ba3b25c", "pmcid": "PMC12863573", "doi": "10.1371/journal.pone.0342158", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_f76126d2e16a851a", "pmcid": "PMC13046712", "doi": "10.3389/ebm.2026.10857", "domain": "biomedical", "splits": ["test"]}
+{"paper_id": "src_f808b1103efc44c7", "pmcid": "PMC13373700", "doi": "10.1155/ijm/8369920", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_f881e280114711fc", "pmcid": "PMC13019456", "doi": "10.1039/d5ra08990e", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_f8f72050fe98edc9", "pmcid": "PMC12794132", "doi": "10.1096/fj.202503596r", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_f90886eb67a05a97", "pmcid": "PMC13002450", "doi": "10.3389/fendo.2026.1781906", "domain": "biomedical", "splits": ["rl"]}
+{"paper_id": "src_f95cc4645e4690c0", "pmcid": "PMC13479915", "doi": "10.1186/s12931-026-03732-0", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_fa6f21d16207cced", "pmcid": "PMC13514700", "doi": "10.3390/md24080281", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_fb1b7bde4a55110d", "pmcid": "PMC13072976", "doi": "10.3390/foods15071254", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_fb35cc31c653ff06", "pmcid": "PMC13567173", "doi": "10.3390/ma19173705", "domain": "materials_sensors", "splits": ["development"]}
+{"paper_id": "src_fb969b88f0540a1d", "pmcid": "PMC13516111", "doi": "10.3390/polym18161959", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_fc13f2ac6dedce1f", "pmcid": "PMC13417415", "doi": "10.3390/toxics14070561", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_fc41623f6d316492", "pmcid": "PMC13515556", "doi": "10.3390/mi17080980", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_fc4ae37c7cfd3302", "pmcid": "PMC13274616", "doi": "10.1126/sciadv.aec7965", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_fcf11d7724a48244", "pmcid": "PMC13487723", "doi": "10.1002/advs.202523043", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_fd7f32ae86a36397", "pmcid": "PMC13165410", "doi": "10.3390/polym18091119", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_fdb0dc6e629dbb2d", "pmcid": "PMC13566815", "doi": "10.3390/ma19173569", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_fe1badc9503c209f", "pmcid": "PMC9144773", "doi": "10.3390/nano12101770", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_fe776e670924bdd2", "pmcid": "PMC11820054", "doi": "10.3390/polym17030327", "domain": "materials_sensors", "splits": ["rl", "sft"]}
+{"paper_id": "src_fe82e459af0aa098", "pmcid": "PMC13336852", "doi": "10.1002/advs.76258", "domain": "materials_sensors", "splits": ["test"]}
+{"paper_id": "src_fea12add69a8dea7", "pmcid": "PMC13422430", "doi": "10.3389/fimmu.2026.1819873", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_feb0c9a28fa2d6e1", "pmcid": "PMC13106732", "doi": "10.1111/wrr.70158", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_fec5e2b6532e238a", "pmcid": "PMC13287804", "doi": "10.1038/s41598-026-57335-2", "domain": "biomedical", "splits": ["rl", "sft"]}
+{"paper_id": "src_fec7b299eba8680a", "pmcid": "PMC13353930", "doi": "10.1093/rb/rbag136", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_ff2d66c3243c17af", "pmcid": "PMC10728838", "doi": "10.5812/ijpr-126613", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_ff61b5ff7a0402f0", "pmcid": "PMC13411909", "doi": "10.1371/journal.pone.0354719", "domain": "biomedical", "splits": ["sft"]}
+{"paper_id": "src_ffaa793374482cf4", "pmcid": "PMC13367112", "doi": "10.1002/advs.76572", "domain": "materials_sensors", "splits": ["sft"]}
+{"paper_id": "src_ffcd811c6d218bbd", "pmcid": "PMC13156309", "doi": "10.1038/s41413-026-00530-8", "domain": "biomedical", "splits": ["sft"]}

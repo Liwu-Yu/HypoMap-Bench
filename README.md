@@ -1,7 +1,7 @@
 # HypoMap-Bench
 
 **Can Language Models Understand the Process of Hypothesis Validation?**  
-Liwu Yu, Jiarui Cui, and Xiang Anthony Chen · University of California, Los Angeles · [Paper (PDF)](paper/HypoMap-Bench.pdf)
+[Liwu Yu](mailto:francisyu24@ucla.edu), [Jiarui Cui](mailto:jiaruicui99@ucla.edu), [Youngseung Jeon](mailto:ysj@ucla.edu), and [Xiang ‘Anthony’ Chen](mailto:xac@ucla.edu) · University of California, Los Angeles · [Paper (PDF)](paper/HypoMap-Bench.pdf)
 
 Given a hypothesis map and evidence from a published study, a model decides which claims need revision and which should stay as they are. HypoMap-Bench contains **3,178 distinct tasks from 722 papers** in materials science and biomedicine. On the 479-task test set, supervised fine-tuning raised Qwen3-8B’s answer validity from 67% to 86%, raised correctness from 0.72 to 0.81, and reduced unnecessary edits from 38% to 20%.
 
